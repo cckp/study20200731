@@ -1,0 +1,41 @@
+
+L
+java:S3740$"/Provide the parametrized type for this generic.(šêà„8“ú³’º.
+Q
+java:S3740@"/Provide the parametrized type for this generic.(©ò¦æûÿÿÿÿ8É’º.
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈµŒæúÿÿÿÿ8“ú³’º.
+E
+java:S1125M"(Remove the literal "true" boolean value.(ª¿”‹8ã¡±’º.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÌÆÊÍ8şñ’º.
+_
+java:S1128"BRemove this unused import 'org.omg.Messaging.SYNC_WITH_TRANSPORT'.(ßÎÂÉ8ÇÎï’º.
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÈ÷ıÿÿÿÿ8“ú³’º.
+E
+java:S1125."(Remove the literal "true" boolean value.(ª¿”‹8“ú³’º.
+m	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×³é—8¶¤Ş’º.
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šêà„8“ú³’º.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ç£ìÿ8ğÃğ’º.
+x
+java:S1128"\Remove this unused import 'com.oracle.webservices.internal.api.databinding.DatabindingMode'.(î Ûp8±òı‘º.
+Q
+java:S3740C"/Provide the parametrized type for this generic.(ÈµŒæúÿÿÿÿ8“ú³’º.
+Q
+java:S3740%"/Provide the parametrized type for this generic.(ÈµŒæúÿÿÿÿ8œšœ’º.
+L
+java:S3740-"/Provide the parametrized type for this generic.(Â†ñ»8ºµ¥’º.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â†ñ»8ºµ¥’º.
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šêà„8Œè™’º.
+Q
+java:S3740L"/Provide the parametrized type for this generic.(çÈ÷ıÿÿÿÿ8“ú³’º.
+r	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¦¨åüÿÿÿÿ8…ìä’º.
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈµŒæúÿÿÿÿ8œšœ’º.
+L
+java:S3740B"/Provide the parametrized type for this generic.(šêà„8Œè™’º.
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¦ïúùÿÿÿÿ8ßÄä’º.
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÂ¬Üúÿÿÿÿ8ÁµŞ’º.
+r	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù©«üÿÿÿÿ8…ìä’º.
+m	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£«‹‡8ßÄä’º.
+Q
+java:S3740""/Provide the parametrized type for this generic.(£†¾¼øÿÿÿÿ8Ÿ ’º.
+|
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ëèÌûÿÿÿÿ8ùã»äÄ.
