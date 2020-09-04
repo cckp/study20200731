@@ -1,67 +1,67 @@
 
 L
-java:S37400"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
-N
-java:S3599!",Use another way to initialize this instance.(ÿ§‹Öùÿÿÿÿ8ÍÓ·çÄ.
-Q
-java:S3740!"/Provide the parametrized type for this generic.(ÿ§‹Öùÿÿÿÿ8ÍÓ·çÄ.
-v	java:S115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛßÙ†8ÍÓ·çÄ.
-v
-java:S1171-"YMove the contents of this initializer to a standard constructor or to field initializers.(ŠÂš8ÍÓ·çÄ.
-v
-java:S11714"YMove the contents of this initializer to a standard constructor or to field initializers.(ŠÂš8ÍÓ·çÄ.
-|	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜîÜùÿÿÿÿ8ÍÓ·çÄ.
+java:S3740&"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
 N
 java:S3599",Use another way to initialize this instance.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-v
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
-v
-java:S1171)"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
-I
-java:S35990",Use another way to initialize this instance.(û»Ì 8ÍÓ·çÄ.
-w	java:S115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞĞñ¤8ÍÓ·çÄ.
-L
-java:S37404"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-I
-java:S3599",Use another way to initialize this instance.(û»Ì 8ÍÓ·çÄ.
-|	java:S115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™ŞĞÈùÿÿÿÿ8ÍÓ·çÄ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-L
-java:S3740-"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
-A
-java:S1640k"Convert this Map to an EnumMap.(š½†ùÿÿÿÿ8ÍÓ·çÄ.
 I
 java:S35994",Use another way to initialize this instance.(ŠÂš8ÍÓ·çÄ.
-|	java:S115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á­Í®ÿÿÿÿÿ8ÍÓ·çÄ.
+|	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜîÜùÿÿÿÿ8ÍÓ·çÄ.
+I
+java:S3599-",Use another way to initialize this instance.(ŠÂš8ÍÓ·çÄ.
+I
+java:S3599&",Use another way to initialize this instance.(ŠÂš8ÍÓ·çÄ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
+|	java:S115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦­¾Üşÿÿÿÿ8ÍÓ·çÄ.
+L
+java:S3740-"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
 {
 java:S1171!"YMove the contents of this initializer to a standard constructor or to field initializers.(ÿ§‹Öùÿÿÿÿ8ÍÓ·çÄ.
 L
-java:S3740&"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
-L
-java:S3740"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
-L
-java:S3740)"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
+java:S37400"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
+I
+java:S3599",Use another way to initialize this instance.(û»Ì 8ÍÓ·çÄ.
 N
-java:S3599",Use another way to initialize this instance.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-v
-java:S11710"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
-{
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-{
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
-|
-java:S3012¡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¹­ÿÿÿÿÿ8ééĞåÄ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ùÿÿÿÿ8ÿÈ†åÄ.
+java:S3599!",Use another way to initialize this instance.(ÿ§‹Öùÿÿÿÿ8ÍÓ·çÄ.
 I
 java:S3599)",Use another way to initialize this instance.(û»Ì 8ÍÓ·çÄ.
-I
-java:S3599&",Use another way to initialize this instance.(ŠÂš8ÍÓ·çÄ.
-I
-java:S3599-",Use another way to initialize this instance.(ŠÂš8ÍÓ·çÄ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
+|	java:S115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á­Í®ÿÿÿÿÿ8ÍÓ·çÄ.
+L
+java:S3740"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
+v
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
+w	java:S115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù·Æ€8ÍÓ·çÄ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
+|	java:S115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™ŞĞÈùÿÿÿÿ8ÍÓ·çÄ.
+N
+java:S3599",Use another way to initialize this instance.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
+|
+java:S3012¡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¹­ÿÿÿÿÿ8ééĞåÄ.
+v
+java:S1171-"YMove the contents of this initializer to a standard constructor or to field initializers.(ŠÂš8ÍÓ·çÄ.
+v	java:S115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛßÙ†8ÍÓ·çÄ.
 v
 java:S1171&"YMove the contents of this initializer to a standard constructor or to field initializers.(ŠÂš8ÍÓ·çÄ.
-|	java:S115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦­¾Üşÿÿÿÿ8ÍÓ·çÄ.
-w	java:S115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù·Æ€8ÍÓ·çÄ.
+Q
+java:S3740!"/Provide the parametrized type for this generic.(ÿ§‹Öùÿÿÿÿ8ÍÓ·çÄ.
+v
+java:S11714"YMove the contents of this initializer to a standard constructor or to field initializers.(ŠÂš8ÍÓ·çÄ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(õÁéâøÿÿÿÿ8ÍÓ·çÄ.
+w	java:S115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞĞñ¤8ÍÓ·çÄ.
+A
+java:S1640k"Convert this Map to an EnumMap.(š½†ùÿÿÿÿ8ÍÓ·çÄ.
+v
+java:S1171)"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
+L
+java:S37404"/Provide the parametrized type for this generic.(ŠÂš8ÍÓ·çÄ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ùÿÿÿÿ8ÿÈ†åÄ.
+L
+java:S3740)"/Provide the parametrized type for this generic.(û»Ì 8ÍÓ·çÄ.
+I
+java:S35990",Use another way to initialize this instance.(û»Ì 8ÍÓ·çÄ.
+v
+java:S11710"YMove the contents of this initializer to a standard constructor or to field initializers.(û»Ì 8ÍÓ·çÄ.
