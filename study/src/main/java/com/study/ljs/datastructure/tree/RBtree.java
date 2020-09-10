@@ -1,9 +1,7 @@
 package com.study.ljs.datastructure.tree;
 
-import com.oracle.webservices.internal.api.databinding.DatabindingMode;
 import lombok.Data;
 import lombok.experimental.Accessors;
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 
 /**
  * 参考：https://zhuanlan.zhihu.com/p/24367771
