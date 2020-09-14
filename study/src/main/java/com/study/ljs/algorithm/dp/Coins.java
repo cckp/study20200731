@@ -8,6 +8,7 @@ package com.study.ljs.algorithm.dp;
 public class Coins {
     public static void main(String[] args) {
         int[] coins = {1, 3, 5};
+        int[] coins22 = {1, 3, 5};
         int target = 50;
         System.out.println(coinChange(coins, target));
     }
